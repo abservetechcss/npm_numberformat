@@ -25,7 +25,7 @@ Install my-project with npm
 
 Use this package as a function
 
-    import numberFormat from 'numberformat_asw'
+    import { numberFormat } from 'numberformat_asw'
 
     const num = 10 // 10
     let format = numberFormat(num) // 10

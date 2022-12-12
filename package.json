@@ -1,6 +1,6 @@
 {
   "name": "numberformat_asw",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "to make the price as K, M, B Format",
   "main": "./build/index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "Aswinkumar",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abservetechcss/npm_numberformat.git"
+  },
   "devDependencies": {
     "@babel/core": "^7.7.5",
     "@babel/preset-env": "^7.7.6",
