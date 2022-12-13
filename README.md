@@ -1,7 +1,7 @@
 
 
 # Number Format
-To make the price format as Short form.
+To make the number format as Short form.
 
 for example : 
 

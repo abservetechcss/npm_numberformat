@@ -1,11 +1,12 @@
 {
   "name": "numberformat_asw",
-  "version": "1.1.1",
-  "description": "to make the price as K, M, B Format",
+  "version": "1.1.3",
+  "description": "to make the number as K, M, B Format",
   "main": "./build/index.js",
   "scripts": {
     "build": "webpack"
   },
+  "keywords": ["format","number-format","K-M-B-format"],
   "author": "Aswinkumar",
   "license": "ISC",
   "repository": {
